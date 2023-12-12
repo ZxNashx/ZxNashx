@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything. :D
 - 🤔 I’m looking for help with creating a world generator for a 2d game. 
 - 💬 Ask me about anything. :D
-- 📫 How to reach me: linkedin.
+- 📫 How to reach me: LinkedIn or email.
 - 😄 Pronouns: He/Him
