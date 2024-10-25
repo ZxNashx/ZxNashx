@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started:
 -->
+# General Information
 - 🔭 I’m currently working on a game using Godot game engine. 
 - 🌱 I’m currently learning SQL & C. 
 - 👯 I’m looking to collaborate on anything. :D
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 
 # Certificates
 [Python 3](https://www.codingame.com/certification/ce7BPiHkEemKyt0QjgeCMA)
-
