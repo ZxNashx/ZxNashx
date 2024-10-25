@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything. :D
 - 📫 How to reach me: LinkedIn or email.
 - 😄 Pronouns: He/Him
+
+
+# Certificates
+[Python 3](https://www.codingame.com/certification/ce7BPiHkEemKyt0QjgeCMA)
+
